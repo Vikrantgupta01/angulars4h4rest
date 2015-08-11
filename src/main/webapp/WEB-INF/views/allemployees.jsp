@@ -15,7 +15,7 @@
 
 </head>
 
-
+<a href="<c:url value='/angular' />">GO ANGULAR</a>
 <body>
 	<h2>List of Employees</h2>	
 	<table>
